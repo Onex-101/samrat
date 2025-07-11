@@ -1,4 +1,5 @@
 echo "# samrat" >> README.md
+oe bastard
 git init
 git add .
 git commit -m "first commit"
